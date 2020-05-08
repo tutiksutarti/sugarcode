@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fragment_container" type="id" />
+    <item name="emailInput" type="id" />
+    <item name="passwordInput" type="id" />
+    <item name="loginBtn" type="id" />
+    <item name="registerTV" type="id" />
+    <item name="navigation_home" type="id" />
+    <item name="navigation_user" type="id" />
+    <item name="navigation_comment" type="id" />
+    <item name="tv_login" type="id" />
+    <item name="tv_register" type="id" />
+    <item name="et_username" type="id" />
+    <item name="et_password" type="id" />
+    <item name="rv_mhs" type="id" />
+    <item name="tv_nama_kategori" type="id" />
+    <item name="iv_icon_kategori" type="id" />
+    <item name="iv_back_home" type="id" />
+    <item name="rl_navbar" type="id" />
+    <item name="tv_det_nama_hidangan" type="id" />
+    <item name="tv_det_deskripsi_hidangan" type="id" />
+    <item name="tv_det_harga_hidangan" type="id" />
+    <item name="iv_det_foto_hidangan" type="id" />
+    <item name="et_nama" type="id" />
+    <item name="et_email" type="id" />
+    <item name="et_username_r" type="id" />
+    <item name="et_password_r" type="id" />
+    <item name="tv_login_r" type="id" />
+    <item name="tv_register_r" type="id" />
+</resources>

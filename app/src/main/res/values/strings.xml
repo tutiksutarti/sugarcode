@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">sugarcode</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello fragment</string>
+    <string name="s_pref_file">preference_file</string>
+    <string name="s_pref_login_status">preference_login_status</string>
+    <string name="s_pref_name">preference_name</string>
+    <string name="s_pref_email">preference_email</string>
+    <string name="s_pref_date">preference_date</string>
+
+
+</resources>
